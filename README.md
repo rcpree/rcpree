@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rcpree
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web developing
+- 💞️ I’m looking to collaborate on full stack
